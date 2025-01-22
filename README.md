@@ -1,2 +1,2 @@
 # Week-1
-Distribution of Generated Power
+SOLAR POWER PREDICTION USING LINEAR REGRESSION MODEL
